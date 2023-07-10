@@ -1,1 +1,1 @@
-# Multivarite-Data-Analysis
+# Multivariate-Data-Analysis
